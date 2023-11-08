@@ -66,7 +66,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    width: 100%;
+    /* width: 100%; */
     row-gap: 1rem;
 }
 .main-content img {
@@ -77,6 +77,6 @@ header {
     object-fit: cover;
     margin: 20px;
 }
-main {
+/* main {
     max-width: 1920px;
-}
+} */
