@@ -72,7 +72,7 @@ header {
 .main-content img {
     flex-grow: 1;
     flex-shrink: 0;
-    width: 700px;
+    width: 600px;
     height: 400px;
     object-fit: cover;
     margin: 20px;
