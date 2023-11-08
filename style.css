@@ -61,6 +61,7 @@ header {
     width: 30px;
     height: 30px;
 }
+
 .main-content {
     display: flex;
     flex-wrap: wrap;
@@ -71,7 +72,7 @@ header {
 .main-content img {
     flex-grow: 1;
     flex-shrink: 0;
-    width: 580px;
+    width: 700px;
     height: 400px;
     object-fit: cover;
     margin: 20px;
